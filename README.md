@@ -1,6 +1,6 @@
 # Todo-prosjekt
 
-Dette er et eksamensarbeid i faget inføring i programmering hvor jeg har brukt HTML, CSS og JavaScript for å lage en Todo-, kontakt- og bokførings-side. I denne oppgave skulle man se på en demovideo uten å se selve koden. Deretter skulle man kode etter de funksjoner som ble gitt og lage css utifra hvordan demovideon så ut.
+Dette er et eksamensarbeid i faget inføring i programmering hvor jeg har brukt HTML, CSS og JavaScript for å lage en Todo-, kontakt- og bokførings-side. I denne oppgave skulle man se på en demovideo og deretter kode etter de funksjoner som ble gitt og lage css utifra hvordan demovideon så ut. Det var noe kode fra før i dokumentet som er gjort av laerer, men jeg har kommentert i koden hva jeg har endret på.
 
 ## Struktur av projektet:
 
