@@ -14,6 +14,6 @@ delexamen2.html - alt innehåll ligger på en side
 
 ## Refleksjon:
 
-Dette er en eksamens oppgave som bruker HTML, CSS og JavaScript. I dette prosjekt gjør jeg "inline" eller "embedded" JavaScript ettersom vi ikke laert extran script ved dette tilfelle.
+Dette er en eksamens oppgave som bruker HTML, CSS og JavaScript. I dette prosjekt gjør jeg "inline" eller "embedded" JavaScript ettersom vi ikke laert extern script ved dette tilfelle.
 
 
